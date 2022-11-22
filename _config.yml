@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Sumit's site
 
 # Your name to show in the footer
-author: Some Person
+author: sumit
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -49,11 +49,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "sumit2011kmr@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: sumit2011
+  twitter: _su__mit___
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
