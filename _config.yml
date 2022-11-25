@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sumit's site
+title: Subro's site
 
 # Your name to show in the footer
 author: sumit kumar
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  security notes: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,14 +51,14 @@ round-avatar: true
 social-network-links:
   email: "sumit2011kmr@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: sumit2011
   github: sumit2011
   twitter: _su__mit___
-  patreon: DeanAttali
+#  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: sumit-kr-0babb4228
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
