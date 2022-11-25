@@ -11,13 +11,13 @@ My name is Sumit Kumar, i am currently pursuing B.Tech at NIT Srinagar. I'm inte
 
 What else do you need?
 
-### Skills
+## Skills
 
-## Cybersecurity
-To be honestm I'm just a beginner and interested to learn all about hacking.
-platform: THM, HTB, Hacker-X.
+### Cybersecurity
+To be honest I'm just a beginner and interested to learn all about hacking.
+platform: [THM](https://tryhackme.com), [HTB](https://www.hackthebox.com), Hacker-X.
 
-## programming
+### programming
 Data Structure and Algorithm, C++, C, Python.
 platform: codechef, coding ninja.
 
