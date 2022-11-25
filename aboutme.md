@@ -14,11 +14,12 @@ What else do you need?
 ## Skills
 
 ### Cybersecurity
-To be honest I'm just a beginner and interested to learn all about hacking.
-platform: [THM](https://tryhackme.com), [HTB](https://www.hackthebox.com), Hacker-X.
+To be honest I'm just a beginner at this stage and interested to learn all about hacking. I'm currently learning hacking from the following platforms.
+
+platform: [THM](https://tryhackme.com), [HTB](https://www.hackthebox.com), [Hacker-X](https://hackerx.org).
 
 ### programming
-Data Structure and Algorithm, C++, C, Python.
-platform: codechef, coding ninja.
+I'm also learning Data Structure and Algorithm, **C++, C, Python**.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+platform: [codechef](https://www.codechef.com/), [coding ninja](https://www.codingninjas.com).
+
