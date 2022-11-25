@@ -22,9 +22,10 @@ author: sumit kumar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  security notes: "https://deanattali.com"
+    - Dsa notes: "https://github.com/sumit2011/dsa-lab-assignment"
+    - Security notes:
+    - Ctf writeups: #"https://www.markdowntutorial.com/"
+  security blogs: #"https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -50,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sumit2011kmr@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: sumit2011
   github: sumit2011
   twitter: _su__mit___
@@ -62,7 +63,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: _su__mit___
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
