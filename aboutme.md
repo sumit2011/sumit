@@ -4,12 +4,13 @@ title: About me
 subtitle: Cybersecurity enthusiast and programmer
 ---
 
-My name is Sumit Kumar, i am currently pursuing B.Tech at NIT Srinagar. I'm interested in cybersecurity and competitive programming and love to solve problems. I'm also a part of z3r0d4y(a cybersecurity club at NIT Srinagar). I have the following qualities:
+My name is Sumit Kumar, i am currently pursuing B.Tech at NIT Srinagar. I'm interested in cybersecurity and competitive programming and love to solve problems. I'm also a part of z3r0d4y(a cybersecurity club at NIT Srinagar).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have the following qualities:
 
-What else do you need?
+- I'm curiou to learn new things.
+- I'm extremely loyal to my family and friends.
+
 
 ## Skills
 
