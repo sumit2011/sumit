@@ -2,7 +2,7 @@
 layout: post
 title: Singly Linked list
 subtitle: Detail explanation
-gh-repo:  dsa-lab-assignment/single_linklist.c
+gh-repo:  dsa-lab-assignment
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
