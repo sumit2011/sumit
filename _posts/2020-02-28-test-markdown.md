@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: 
+title: Singly Linked list
+subtitle: Detail explanation
+gh-repo:  dsa-lab-assignment/single_linklist.c
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+**introduction:**
+Single linked list is a linear data structure. It's elements are not stored in contiguous memory location like arrays. it is slightly different from array. it made by the nodes, each nodes consist a data and the address of the next node and each nodes are linked using pointers.
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Read further to learn more**
 
-**Here is some bold text**
-
-## Here is a secondary heading
+## Detail explanation
 
 Here's a useless table:
 
