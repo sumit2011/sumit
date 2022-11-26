@@ -14,14 +14,14 @@ Single linked list is a linear data structure. It's elements are not stored in c
 
 ## Detail explanation
 
-Here's a useless table:
+Table of content:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| S.No | Topic |
+| :------ |:--- |
+| 01 | creation of a node |
+| 02 | insertion at begining |
+| 03 | insertion at last |
+| 04 | inserton at any position |
 
 
 How about a yummy crepe?
@@ -35,44 +35,47 @@ It can also be centered!
 Here's a code chunk:
 
 ~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+struct Node
+{
+    int data;
+    struct Node *next;
+};
 ~~~
 
 And here is the same code with syntax highlighting:
 
 ```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+struct Node
+{
+    int data;
+    struct Node *next;
+};
 ```
 
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+struct Node
+{
+    int data;
+    struct Node *next;
+};
+{% endhighlight %} 
 
 ## Boxes
-You can add notification, warning and error boxes like this:
+---------------------------------
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Comming Soon.
 
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** Working.
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** Not completed.
