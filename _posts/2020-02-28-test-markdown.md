@@ -24,13 +24,13 @@ Table of content:
 | 04 | inserton at any position |
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+![Crepe]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://www.sitesbay.com/data-structure/images/linked-list.png))
 
 It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://res.cloudinary.com/dpessyoae/image/upload/v1494083335/linkedlist3_fsadk8.png)){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
